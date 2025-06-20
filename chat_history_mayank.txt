@@ -1,0 +1,21 @@
+Chat Session - User: mayank, Time: 22:35:09
+Conversation:
+Bot: Didn't get that. Try a joke, quote, or game!
+You: whatishuman
+Bot: Didn't get that. Try a joke, quote, or game!
+You: howmanybonesin human body
+Bot: 206 bones in us humans!
+You: tell meabout youself
+Bot: Didn't get that. Try a joke, quote, or game!
+You: whocreatedyou
+Bot: Made with love by a Python pro!
+You: what is youfunction
+Bot: Didn't get that. Try a joke, quote, or game!
+You: telmea  joke
+Bot: Didn't get that. Try a joke, quote, or game!
+You: 10+11
+Bot: Didn't get that. Try a joke, quote, or game!
+You: exit
+Bot: Chat ended.
+--------------------------------------------------
+

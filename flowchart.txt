@@ -1,0 +1,39 @@
+START
+  |
+  v
+[Login Interface]
+  |
+  |---> Valid Admin/User?
+  |        |
+  |       Yes
+  |        |
+  v        v
+[Welcome Screen] --> [Main Menu]
+                         |
+                         |--> [1. Chat Interaction]
+                         |        |
+                         |        v
+                         |   Chat + Save History
+                         |
+                         |--> [2. Simple Calculator]
+                         |
+                         |--> [3. Complex Calculator]
+                         |
+                         |--> [4. Quiz]
+                         |
+                         |--> [5. Fun Chat]
+                         |
+                         |--> [6. Random Fact]
+                         |
+                         |--> [7. Encode/Decode]
+                         |
+                         |--> [8. Multiplication Table]
+                         |
+                         |--> [9. Educational Quiz]
+                         |
+                         |--> [10. Shloka Display]
+                         |
+                         |--> [11. Exit]
+                         |
+                         v
+                      EXIT
